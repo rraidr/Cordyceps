@@ -2,5 +2,11 @@
 	"FileVersion": 3,
 	"EngineAssociation": "{8F26A9B0-4801-6A9E-9239-419D6F7EB982}",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "HDRIBackdrop",
+			"Enabled": true
+		}
+	]
 }
